@@ -1,8 +1,9 @@
-# GitHub Copilot CLI (Public Preview)
+GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assistance while staying deeply integrated with your GitHub workflow.# GitHub Copilot CLI (Public Preview)
 
 The power of GitHub Copilot, now in your terminal.
 
-GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assistance while staying deeply integrated with your GitHub workflow.
+GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assist
+ance while staying deeply integrated with your GitHub workflow.
 
 See [our official documentation](https://docs.github.com/copilot/concepts/agents/about-copilot-cli) for more information.
 
